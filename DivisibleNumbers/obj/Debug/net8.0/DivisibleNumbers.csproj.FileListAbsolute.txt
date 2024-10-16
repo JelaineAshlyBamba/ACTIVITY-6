@@ -1,0 +1,14 @@
+D:\Documents\Activity 6\DivisibleNumbers\bin\Debug\net8.0\DivisibleNumbers.exe
+D:\Documents\Activity 6\DivisibleNumbers\bin\Debug\net8.0\DivisibleNumbers.deps.json
+D:\Documents\Activity 6\DivisibleNumbers\bin\Debug\net8.0\DivisibleNumbers.runtimeconfig.json
+D:\Documents\Activity 6\DivisibleNumbers\bin\Debug\net8.0\DivisibleNumbers.dll
+D:\Documents\Activity 6\DivisibleNumbers\bin\Debug\net8.0\DivisibleNumbers.pdb
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.AssemblyInfoInputs.cache
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.AssemblyInfo.cs
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.dll
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\refint\DivisibleNumbers.dll
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.pdb
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\DivisibleNumbers.genruntimeconfig.cache
+D:\Documents\Activity 6\DivisibleNumbers\obj\Debug\net8.0\ref\DivisibleNumbers.dll
